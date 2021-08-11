@@ -1,3 +1,7 @@
+https://nomadcoders.co/wetube/lobby
+
+옛날 버전 
+
 # HOME
 
 Cloning YouTube with VanillaJs and NodeJs
